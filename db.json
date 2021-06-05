@@ -37,15 +37,6 @@
       }
     },
     {
-      "id": 6,
-      "name": "charizard",
-      "hp": 78,
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
-      }
-    },
-    {
       "id": 7,
       "name": "squirtle",
       "hp": 44,
@@ -97,15 +88,6 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
-      }
-    },
-    {
-      "id": 13,
-      "name": "weedle",
-      "hp": 40,
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
       }
     },
     {
