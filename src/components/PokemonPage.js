@@ -19,7 +19,7 @@ function PokemonPage() {
     .filter((poke)=> poke.name.toLowerCase().includes(currentSearch.toLowerCase()));
 
   function addPokemon (newPokemon) {
-    const updatePokemon={newPokemon,...cards}
+    const updatePokemon=([...cards,newPokemon])
     return setCards(updatePokemon);
   }
   
